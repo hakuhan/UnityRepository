@@ -5,3 +5,5 @@
 ShelterCheck是通过向相机发射ray来判断是否被遮挡，如果被遮挡则隐藏
 
 EditorExtend用于扩展editor的功能
+
+MovingController包含运动物体的控制，如carController就是对汽车的控制器
