@@ -25,6 +25,8 @@ public class CarController : MonoBehaviour {
 	void Start () {
         m_car = gameObject;
         m_rigidbody = gameObject.GetComponent<Rigidbody>();
+        if (!m_rigidbody)
+            gameObject.AddComponent<Rigidbody>();
 	}
 
     /************************************************************************/
