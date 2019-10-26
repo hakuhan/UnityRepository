@@ -1,3 +1,6 @@
 [submodule "MyBehaviourTree"]
 	path = MyBehaviourTree
 	url = git@github.com:hakuhan/MyBehaviourTree.git
+[submodule "UnityStateMachine"]
+	path = UnityStateMachine
+	url = git@github.com:hakuhan/UnityStateMachine.git
