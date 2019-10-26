@@ -1,0 +1,3 @@
+[submodule "MyBehaviourTree"]
+	path = MyBehaviourTree
+	url = git@github.com:hakuhan/MyBehaviourTree.git
